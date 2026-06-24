@@ -1,4 +1,4 @@
-# Habit-Tracking Garden 🌷
+# Habit-Tracking Garden
 
 A cozy gamified habit tracker built with React + Firebase.  
 Each habit is represented as a plant. Complete your habit daily to water the plant and grow it from seed to flower. Miss days and the plant gently wilts.
